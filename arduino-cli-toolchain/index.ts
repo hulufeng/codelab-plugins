@@ -18,7 +18,7 @@ export { manifest }
 
 /**
  * Arduino CLI 工具链官方插件
- * 对标 TrieCode arduino-cli-toolchain：
+ * 能力覆盖：
  * - 编译 / 烧录 / 板卡搜索 / 已连接板卡 / 库搜索 / 库安装 / 库列表 / 平台列表 / 平台安装 / 串口日志
  * - backend: 流式编译/烧录/安装 + 同步查询
  * - internal: 工具链检测

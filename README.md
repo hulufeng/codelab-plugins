@@ -1,6 +1,6 @@
 # CodeLab 官方插件仓库
 
-CodeLab（代码实验室）官方插件集合。对标 TrieCode 插件生态，所有插件通过 `manifest.json` 声明能力，宿主统一分发渲染——UI 与 AI 同源获得插件能力。
+CodeLab（代码实验室）官方插件集合。通用插件生态，所有插件通过 `manifest.json` 声明能力，宿主统一分发渲染——UI 与 AI 同源获得插件能力。
 
 ## 已发布插件
 

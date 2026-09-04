@@ -5,7 +5,7 @@
   "version": "0.4.0",
   "developer": "CodeLab",
   "icon": "🔌",
-  "description": "Arduino（AVR / ESP32 / ESP8266）编译烧录、板卡与库管理、串口监视，对标 TrieCode arduino-cli-toolchain",
+  "description": "Arduino（AVR / ESP32 / ESP8266）编译烧录、板卡与库管理、串口监视",
   "minAppVersion": "0.1.0",
   "entry": "./index.ts",
   "capabilities": {
